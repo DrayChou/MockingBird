@@ -1,3 +1,4 @@
+pydantic==1.*
 umap-learn
 visdom
 librosa
@@ -25,9 +26,11 @@ PyYAML
 torch_complex
 espnet
 PyWavelets
-monotonic-align==0.0.3
+monotonic-align>=0.0.3
 transformers
 fastapi
 loguru
 typer[all]
 click
+webrtcvad-wheels
+audio_recorder_streamlit
